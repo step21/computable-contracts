@@ -1,8 +1,0 @@
-LICENSEE - The University
-SUBLICENSEE - A student enrolled in a major that benefits from journals relevant to the field as set force in the appendix. (array of persons)
-ARBITER/ORACLE - An arbiter or oracle that decides in case of disputes. Can be a natural or legal person or a machine. Art. 2, 3 and 4 especially are evaluated by the arbiter in case of disputes.
-ASSET X - An asset to be licensed.
-Article 1.	The Licensor grants the Licensee a license to use and evaluate asset X and grant sublicenses among group Y, for use and evaluation. This grant is in exchange for a licensing fee.
-Article 2.	(optional) The Licensee or sublicensee is commissioned to publish comments about the use of the product. This allows publication of comments but also requires them.
-Article 3.	The (Sub)Licensee must not publish comments of the use and evaluation of the Product without the approval of the Licensor; the approval must be obtained before the publication. If the Licensee publishes results of the evaluation of the Product without approval from the Licensor, the Licensee has 24 h to remove the material.
-Article 4.	This license terminates automatically if the (Sub)Licensee breaches this Agreement. Breach/Termination obliges the licensee to pay a fee to Licensor for Breach of the Licensing Terms.
