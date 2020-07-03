@@ -1,0 +1,43 @@
+% Copyright 2020 Florian Idelberger MIT License
+% https://github.com/step21/lexon-latex-highlighting/
+
+\usepackage{listings, xcolor}
+
+\definecolor{verylightgray}{rgb}{.97,.97,.97}
+
+\lstdefinelanguage{Lexon}{
+    keywords=[1]{lexon, lex, clause, terms, contracts, to, preamble}, % generic keywords 
+    keywordstyle=[1]\color{blue}\bfseries,
+    keywords=[2]{amount, person, key, time, data, asset, text}, % types; money and time units
+    % is|be|certified
+    %,|:|;
+    keywordstyle=[2]\color{teal}\bfseries,
+    keywords=[3]{added, add, subtract, less, greater, equal, le, gt, or, and}, % operators \\+|\\-|\\*|\\*\\*|\\/|\\|\\||&&|\\^|!|<|>|<=|=>|==|!=|="
+    keywordstyle=[3]\color{violet}\bfseries,
+    keywords=[4]{is, be, certified, certify, may, pays, pay, appoints,},
+    keywordstyle=[4]\color{green}\bfseries,
+    %,|:|;
+    identifierstyle=\color{black},
+    sensitive=false,
+    comment=[l]{comment, preamble},
+    commentstyle=\color{gray}\ttfamily,
+    stringstyle=\color{red}\ttfamily,
+    morestring=[b]',
+    morestring=[b]"
+}
+
+\lstset{
+    language=Lexon,
+    backgroundcolor=\color{verylightgray},
+    extendedchars=true,
+    basicstyle=\footnotesize\ttfamily,
+    showstringspaces=false,
+    showspaces=false,
+    numbers=none,
+    numberstyle=\footnotesize,
+    numbersep=9pt,
+    tabsize=2,
+    breaklines=true,
+    showtabs=false,
+    captionpos=b
+}
