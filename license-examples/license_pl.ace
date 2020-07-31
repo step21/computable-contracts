@@ -1,0 +1,26 @@
+An arbiter is a person.
+A n:licensor is a person.
+A licensee is a person.
+A n:sublicensee is a person.
+
+A n:licensor commissions a licensee.
+A n:duration-to-remove-comments is 24 hours.
+A n:license-fee is an amount.
+
+/* next part for similarity to prolog */
+/* If ato be an offer by the n:licensor. */
+If there is a n:licensor and there is a licensee then a n:license-fee is required.
+If the n:license-fee is paid then the licensee receives a license.
+
+If there is a license then the licensee can v:sublicense.
+/* gives licenses omitted */
+If there is a license then the licensee can comment.
+If the licensee may comment then the n:licensor may approve.
+/* If the licensee is commissioned then the n:licensor */
+If a n:licensor commissions the licensee then a licensee has to comment.
+
+If the n:licensor does not approve then the licensee may not comment.
+If the licensee may not publish then the comments have to be removed within 24 hours.
+/*If the licensee may not comment but the licensee does comment then comments have to be removed within 24 hours.*/
+If the comments have to be removed and are not removed within 24 hours then the license is breached.
+If the license is breached then a n:breach-fee has to be paid.
