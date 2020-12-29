@@ -22,3 +22,5 @@
 *.out
 *.synctex.gz
 .git
+.DS_Store
+.ipynb_checkpoints
