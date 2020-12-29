@@ -1,0 +1,18 @@
+A licensee is a university.
+/* in clex_lexicon.pl licensee is defined as human */
+A n:sublicensee is a student.
+
+A n:licensor grants the licensee a license.
+/* to the asset. */
+The licensee can v:sublicense.
+The grant is given for a fee.
+
+The licensee is commissioned by the n:licensor. If the licensee is commissioned then the licensee has to comment.
+The comments are about the use of the product.
+
+The licensee may not comment without the approval of the n:licensor. The approval has to be obtained before the publication.
+If the licensee comments and the licensee has no approval then the licensee has to remove the comments. The comments must be removed within 24 hours.
+/* If the comments are not removed within 24 hours then the licensee is in breach of the license. */
+
+If the licensee breaches the license then the license is terminated. If the license is terminated then the licensee has to pay a fee to the n:licensor.
+/* Termination obliges the licensee to pay a fee to n:licensor for breach of the a:licensing terms. */
