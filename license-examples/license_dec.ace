@@ -1,15 +1,24 @@
-An arbiter is a person, and a n:licensor is a person, and a licensee is a person and a n:sublicensee is a person. A n:license-fee is an amount.
+Every arbiter is a person, and every n:licensor is a person, and every licensee is a person and every n:sublicensee is a person. A n:license-fee is an amount. The asset is a n:computer-program.
 
 /* Article 1 */
-The n:licensor grants the licensee a limited license. The licensee pays a n:license-fee to the n:licensor. The license allows to use the asset and the license allows to evaluate the asset. The license allows to v:sublicense the asset to the students. The n:license-duration is from the n:startdate to the n:enddate.
+The Licensor grants the Licensee a limited license. The Licensee pays a n:license-fee to the Licensor. Every license covers at least one asset.
+/* rephrase? because of covers */
+The license allows to use the asset and the license allows to evaluate the asset. The license allows to v:sublicense the asset to the students. Every license has a n:license-duration from Startdate to Enddate.
 
 /* Art 2 */ /* check publish comments */
-The n:licensor may commission the licensee to p:publish-comments. If there is a commission then the n:licensor must pay a n:evaluation-fee to the licensee.
-If the licensee is commissioned then the licensee must publish the comments.
+The Licensor may give a n:commission-to-publish-comments to the Licensee. If the Licensee has a n:commission-to-publish-comments then the Licensee is commissioned. If the Licensee is commissioned then the n:publication-of-comments is permitted.
+If there is a commission then the Licensor must pay a n:evaluation-fee to the Licensee.
+If the licensee is commissioned then the licensee must publish at least one comment.
 
-/* Art 3 */
-The n:sublicensee may not publish the comments that are not approved by the n:licensor. The approval of the comments needs to be given before the publication. If the licensee publishes the comments without the approval of the n:licensor then the licensee must remove the comments within 24 h. If the time lapses without the removal of the comments then the license is breached.
+/* Art 3 */ /* maybe rephrase a:commission-to-publish   */
+The Licensee and a n:sublicensee may not publish the a:commission-to-publish comments that are not approved by the Licensor. The approval of the comments needs to be given before the publication. If the Licensee publishes the comments without the approval of the Licensor then the Licensee must remove the comments within 24 h. If the time lapses without the removal of the comments then the license is breached.
 
 /* Art 4 */
-If the licensee breaches the license or the n:sublicensee breaches the agreement then the license is terminated. If the license is breached by the licensee then the licenses of all n:sublicensees are terminated. A breach of the license entails that the licensee must pay a n:breach-fee to the n:licensor.
+If the Licensee breaches the license or a n:sublicensee breaches the agreement then the license is terminated. If the license is breached by the Licensee then the licenses of all n:sublicensees are terminated. A breach of the license entails that the licensee must pay a n:breach-fee to the Licensor.
 
+/*
+  With feedback from Kuhn -
+  * replaced a licensor etc with every licensor / but does this also apply to Licensor then?
+  * replaced licensor without antecendent with name (Licensor) which then gives no antecendent error
+  * assed 'commission to publish' and other references to the specific comments.
+*/

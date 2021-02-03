@@ -1,0 +1,19 @@
+Every arbiter is a person, and every n:licensor is a person, and every licensee is a person and every n:sublicensee is a person. A n:license-fee is an amount. The asset is a n:computer-program.
+
+/* Article 1 */ 
+The Licensor grants the Licensee a limited license. The Licensee pays a n:license-fee to the Licensor. Every license covers at least one asset.
+The license allows to use the asset and the license allows to evaluate the asset. The license allows to v:sublicense the asset to the students. Every license has a n:license-duration from Startdate to Enddate.
+
+/* Art 2 */ /* check publish comments */
+The Licensor may give a n:commission-to-publish-comments to the Licensee. If the Licensee has a n:commission-to-publish-comments then the Licensee is commissioned. If the Licensee is commissioned then the publication of at least one comment is permitted.
+If the Licensee is commissioned then the Licensor must pay a n:evaluation-fee to the Licensee.
+If the Licensee is commissioned then the Licensee must publish at least one comment.
+
+/* Art 3 */ /* maybe rephrase a:commission-to-publish   */
+The Licensee and a n:sublicensee may not publish the a:commission-to-publish comments that are not approved by the Licensor. 
+The approval of the comments needs to be given before the publication. If the Licensee publishes at least one comment without the approval of the Licensor then the Licensee must remove the comments within 24 h. If the time lapses without the removal of the comments then the license is breached.
+/* FIXME of-relation */
+
+/* Art 4 */
+If the Licensee breaches the license then the established license is terminated. If the established license is breached by the Licensee and there is at least one n:sublicensee then the license of all n:sublicensees is terminated. A breach of the license entails that the licensee must pay a n:breach-fee to the Licensor.
+/* maybe also switch sublicensees to Sublicensees */
