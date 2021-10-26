@@ -274,6 +274,3 @@ function licenseActivationStatus(uint _licenseID) public returns (bool status) {
         emit Received(msg.sender, msg.value);
     }
 }
-
-// Note: could also use state machine / at stage model
-    
