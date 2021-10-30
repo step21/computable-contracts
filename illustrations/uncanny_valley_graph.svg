@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 945 510" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.11022e-16,-1,1,1.11022e-16,-76.0311,667.705)">
+        <text x="239.269px" y="103.652px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;">Acceptance of Contract</text>
+    </g>
+    <g id="Programming-Language" serif:id="Programming Language" transform="matrix(6.12323e-17,-1,1,6.12323e-17,-101.369,364.451)">
+        <text x="63.122px" y="170.98px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20.833px;">Programming Language</text>
+    </g>
+    <g transform="matrix(1,0,0,1,97.5124,467.324)">
+        <text x="507.368px" y="18.242px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20.833px;">Uncanny V<tspan x="607.731px 619.317px " y="18.242px 18.242px ">al</tspan>ley</text>
+    </g>
+    <g id="Ebene2">
+        <path d="M46.681,315.693C72.996,315.693 104.273,315.19 130.351,312.133C141.691,310.804 230.943,287.987 234.781,286.456C255.916,278.022 279.116,267.902 300.689,260.647C322.51,253.308 452.446,198.045 468.844,193.669C481.748,190.225 532.212,183.86 546.135,186.235C562.271,188.988 574.273,224.399 578.207,238.522C584.42,260.826 637.853,401.214 639.126,405.472C642.281,416.032 660.826,468.466 676.052,450.285C677.27,448.83 699.969,369.584 702.972,343.573C704.61,329.389 733.242,217.197 754.417,160.792C767.402,126.202 783.053,98.588 786.257,92.109C803.36,57.523 838.631,32.398 878.005,32.398" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+        <g transform="matrix(1,0,0,1,-29.6101,18.8723)">
+            <text x="212.787px" y="336.057px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:25px;">Natural (Legal) Language Likeness</text>
+        </g>
+        <path d="M45.245,4.357L44.094,504.581" style="fill:none;stroke:black;stroke-width:1.56px;"/>
+        <path d="M44.836,316.388L896.169,316.188" style="fill:none;stroke:black;stroke-width:1.56px;"/>
+    </g>
+    <g transform="matrix(-5.55112e-17,-1,1,-5.55112e-17,692.52,1142.18)">
+        <text x="852.442px" y="205.29px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20.833px;">Computable Contract in NL</text>
+    </g>
+</svg>
