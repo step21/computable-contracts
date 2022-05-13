@@ -11,8 +11,7 @@ If the Licensee is commissioned then the Licensee must publish at least one comm
 
 /* Art 3 */ /* maybe rephrase a:commission-to-publish   */
 The Licensee and a n:sublicensee may not publish at least one comment that is not approved by the Licensor. 
-The approval of at least one comment needs to be given before the publication. If the Licensee publishes at least one comment without the approval of the Licensor then the Licensee must remove the comment within 24 h. 
-/* FIXME of-relation */
+The approval of at least one comment needs to be given before the publication. If the Licensee publishes at least one comment without the approval of the Licensor then the Licensee must remove the comment within 24 h.
 
 /* Art 4 */
 If the Licensee v:submits-comments to the Licensor then the Licensor should approve at least one comment within 5 days. The Licensor can deny the comments within 5 days.
